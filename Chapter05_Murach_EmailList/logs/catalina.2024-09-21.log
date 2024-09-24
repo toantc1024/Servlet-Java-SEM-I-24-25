@@ -1,0 +1,800 @@
+21-Sep-2024 00:42:24.336 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+21-Sep-2024 00:42:24.349 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+21-Sep-2024 00:42:24.404 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+21-Sep-2024 00:42:24.415 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+21-Sep-2024 13:25:31.886 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.1.28
+21-Sep-2024 13:25:31.898 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Aug 2 2024 15:14:43 UTC
+21-Sep-2024 13:25:31.899 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.1.28.0
+21-Sep-2024 13:25:31.899 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+21-Sep-2024 13:25:31.899 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+21-Sep-2024 13:25:31.899 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+21-Sep-2024 13:25:31.899 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-21
+21-Sep-2024 13:25:31.900 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           21.0.3+7-LTS-152
+21-Sep-2024 13:25:31.900 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+21-Sep-2024 13:25:31.901 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList
+21-Sep-2024 13:25:31.901 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\apache-tomcat-10.1.28
+21-Sep-2024 13:25:31.920 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+21-Sep-2024 13:25:31.920 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+21-Sep-2024 13:25:31.921 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+21-Sep-2024 13:25:31.921 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+21-Sep-2024 13:25:31.921 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+21-Sep-2024 13:25:31.921 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\apache-tomcat-10.1.28
+21-Sep-2024 13:25:31.922 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList
+21-Sep-2024 13:25:31.922 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList\temp
+21-Sep-2024 13:25:31.922 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList\conf\logging.properties
+21-Sep-2024 13:25:31.922 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+21-Sep-2024 13:25:31.922 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2024.2.0.2\lib\idea_rt.jar=59120:C:\Program Files\JetBrains\IntelliJ IDEA 2024.2.0.2\bin
+21-Sep-2024 13:25:31.922 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+21-Sep-2024 13:25:31.923 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stdout.encoding=UTF-8
+21-Sep-2024 13:25:31.925 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stderr.encoding=UTF-8
+21-Sep-2024 13:25:32.231 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [2.0.8] using APR version [1.7.4].
+21-Sep-2024 13:25:32.248 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.0.14 4 Jun 2024]
+21-Sep-2024 13:25:33.120 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+21-Sep-2024 13:25:33.167 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [1738] milliseconds
+21-Sep-2024 13:25:33.289 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+21-Sep-2024 13:25:33.289 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.28]
+21-Sep-2024 13:25:33.315 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList\conf\Catalina\localhost\Chapter05_Murach_EmailList.xml]
+21-Sep-2024 13:25:34.034 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+21-Sep-2024 13:25:34.143 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList\conf\Catalina\localhost\Chapter05_Murach_EmailList.xml] has finished in [827] ms
+21-Sep-2024 13:25:34.143 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList\conf\Catalina\localhost\WebApplication1.xml]
+21-Sep-2024 13:25:34.145 WARNING [main] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/WebApplication1] in deployment descriptor [C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList\conf\Catalina\localhost\WebApplication1.xml] has been ignored
+21-Sep-2024 13:25:34.325 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+21-Sep-2024 13:25:34.337 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList\conf\Catalina\localhost\WebApplication1.xml] has finished in [190] ms
+21-Sep-2024 13:25:34.350 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+21-Sep-2024 13:25:34.412 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [1243] milliseconds
+21-Sep-2024 13:29:02.742 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+21-Sep-2024 13:29:02.746 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+21-Sep-2024 13:29:02.764 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+21-Sep-2024 13:29:02.780 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+21-Sep-2024 13:29:04.875 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.1.28
+21-Sep-2024 13:29:04.880 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Aug 2 2024 15:14:43 UTC
+21-Sep-2024 13:29:04.880 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.1.28.0
+21-Sep-2024 13:29:04.881 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+21-Sep-2024 13:29:04.881 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+21-Sep-2024 13:29:04.881 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+21-Sep-2024 13:29:04.881 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-21
+21-Sep-2024 13:29:04.881 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           21.0.3+7-LTS-152
+21-Sep-2024 13:29:04.881 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+21-Sep-2024 13:29:04.881 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList
+21-Sep-2024 13:29:04.881 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\apache-tomcat-10.1.28
+21-Sep-2024 13:29:04.892 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+21-Sep-2024 13:29:04.892 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+21-Sep-2024 13:29:04.892 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+21-Sep-2024 13:29:04.892 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+21-Sep-2024 13:29:04.892 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+21-Sep-2024 13:29:04.893 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\apache-tomcat-10.1.28
+21-Sep-2024 13:29:04.893 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList
+21-Sep-2024 13:29:04.893 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList\temp
+21-Sep-2024 13:29:04.893 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList\conf\logging.properties
+21-Sep-2024 13:29:04.893 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+21-Sep-2024 13:29:04.893 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2024.2.0.2\lib\idea_rt.jar=59216:C:\Program Files\JetBrains\IntelliJ IDEA 2024.2.0.2\bin
+21-Sep-2024 13:29:04.893 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+21-Sep-2024 13:29:04.893 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stdout.encoding=UTF-8
+21-Sep-2024 13:29:04.893 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stderr.encoding=UTF-8
+21-Sep-2024 13:29:04.896 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [2.0.8] using APR version [1.7.4].
+21-Sep-2024 13:29:04.901 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.0.14 4 Jun 2024]
+21-Sep-2024 13:29:05.199 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+21-Sep-2024 13:29:05.217 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [515] milliseconds
+21-Sep-2024 13:29:05.267 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+21-Sep-2024 13:29:05.267 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.28]
+21-Sep-2024 13:29:05.280 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList\conf\Catalina\localhost\Chapter05_Murach_EmailList.xml]
+21-Sep-2024 13:29:05.600 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+21-Sep-2024 13:29:05.637 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList\conf\Catalina\localhost\Chapter05_Murach_EmailList.xml] has finished in [357] ms
+21-Sep-2024 13:29:05.638 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList\conf\Catalina\localhost\WebApplication1.xml]
+21-Sep-2024 13:29:05.639 WARNING [main] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/WebApplication1] in deployment descriptor [C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList\conf\Catalina\localhost\WebApplication1.xml] has been ignored
+21-Sep-2024 13:29:05.691 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+21-Sep-2024 13:29:05.693 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList\conf\Catalina\localhost\WebApplication1.xml] has finished in [56] ms
+21-Sep-2024 13:29:05.698 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+21-Sep-2024 13:29:05.716 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [497] milliseconds
+21-Sep-2024 13:48:27.212 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+21-Sep-2024 13:48:27.217 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+21-Sep-2024 13:48:27.227 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+21-Sep-2024 13:48:27.231 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+21-Sep-2024 13:48:29.358 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.1.28
+21-Sep-2024 13:48:29.362 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Aug 2 2024 15:14:43 UTC
+21-Sep-2024 13:48:29.362 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.1.28.0
+21-Sep-2024 13:48:29.362 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+21-Sep-2024 13:48:29.362 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+21-Sep-2024 13:48:29.362 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+21-Sep-2024 13:48:29.363 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-21
+21-Sep-2024 13:48:29.363 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           21.0.3+7-LTS-152
+21-Sep-2024 13:48:29.363 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+21-Sep-2024 13:48:29.363 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList
+21-Sep-2024 13:48:29.364 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\apache-tomcat-10.1.28
+21-Sep-2024 13:48:29.373 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+21-Sep-2024 13:48:29.373 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+21-Sep-2024 13:48:29.373 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+21-Sep-2024 13:48:29.374 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+21-Sep-2024 13:48:29.374 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+21-Sep-2024 13:48:29.374 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\apache-tomcat-10.1.28
+21-Sep-2024 13:48:29.374 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList
+21-Sep-2024 13:48:29.374 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList\temp
+21-Sep-2024 13:48:29.374 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList\conf\logging.properties
+21-Sep-2024 13:48:29.374 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+21-Sep-2024 13:48:29.374 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2024.2.0.2\lib\idea_rt.jar=60503:C:\Program Files\JetBrains\IntelliJ IDEA 2024.2.0.2\bin
+21-Sep-2024 13:48:29.375 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+21-Sep-2024 13:48:29.375 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stdout.encoding=UTF-8
+21-Sep-2024 13:48:29.375 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stderr.encoding=UTF-8
+21-Sep-2024 13:48:29.378 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [2.0.8] using APR version [1.7.4].
+21-Sep-2024 13:48:29.383 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.0.14 4 Jun 2024]
+21-Sep-2024 13:48:29.652 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+21-Sep-2024 13:48:29.668 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [483] milliseconds
+21-Sep-2024 13:48:29.720 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+21-Sep-2024 13:48:29.720 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.28]
+21-Sep-2024 13:48:29.730 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList\conf\Catalina\localhost\Chapter05_Murach_EmailList.xml]
+21-Sep-2024 13:48:30.059 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+21-Sep-2024 13:48:30.122 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList\conf\Catalina\localhost\Chapter05_Murach_EmailList.xml] has finished in [391] ms
+21-Sep-2024 13:48:30.122 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList\conf\Catalina\localhost\WebApplication1.xml]
+21-Sep-2024 13:48:30.124 WARNING [main] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/WebApplication1] in deployment descriptor [C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList\conf\Catalina\localhost\WebApplication1.xml] has been ignored
+21-Sep-2024 13:48:30.204 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+21-Sep-2024 13:48:30.207 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList\conf\Catalina\localhost\WebApplication1.xml] has finished in [84] ms
+21-Sep-2024 13:48:30.210 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+21-Sep-2024 13:48:30.235 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [565] milliseconds
+21-Sep-2024 13:48:48.476 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+21-Sep-2024 13:48:48.479 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+21-Sep-2024 13:48:48.491 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+21-Sep-2024 13:48:48.504 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+21-Sep-2024 13:48:50.682 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.1.28
+21-Sep-2024 13:48:50.690 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Aug 2 2024 15:14:43 UTC
+21-Sep-2024 13:48:50.690 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.1.28.0
+21-Sep-2024 13:48:50.690 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+21-Sep-2024 13:48:50.690 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+21-Sep-2024 13:48:50.690 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+21-Sep-2024 13:48:50.690 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-21
+21-Sep-2024 13:48:50.690 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           21.0.3+7-LTS-152
+21-Sep-2024 13:48:50.691 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+21-Sep-2024 13:48:50.691 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList
+21-Sep-2024 13:48:50.691 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\apache-tomcat-10.1.28
+21-Sep-2024 13:48:50.697 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+21-Sep-2024 13:48:50.697 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+21-Sep-2024 13:48:50.697 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+21-Sep-2024 13:48:50.697 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+21-Sep-2024 13:48:50.697 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+21-Sep-2024 13:48:50.697 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -agentlib:jdwp=transport=dt_socket,address=127.0.0.1:60520,suspend=y,server=n
+21-Sep-2024 13:48:50.697 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\apache-tomcat-10.1.28
+21-Sep-2024 13:48:50.697 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList
+21-Sep-2024 13:48:50.697 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList\temp
+21-Sep-2024 13:48:50.697 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList\conf\logging.properties
+21-Sep-2024 13:48:50.697 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+21-Sep-2024 13:48:50.697 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Users\Ghelix\AppData\Local\JetBrains\IntelliJIdea2024.2\captureAgent\debugger-agent.jar
+21-Sep-2024 13:48:50.697 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dkotlinx.coroutines.debug.enable.creation.stack.trace=false
+21-Sep-2024 13:48:50.697 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Ddebugger.agent.enable.coroutines=true
+21-Sep-2024 13:48:50.697 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+21-Sep-2024 13:48:50.697 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stdout.encoding=UTF-8
+21-Sep-2024 13:48:50.697 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stderr.encoding=UTF-8
+21-Sep-2024 13:48:50.699 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [2.0.8] using APR version [1.7.4].
+21-Sep-2024 13:48:50.703 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.0.14 4 Jun 2024]
+21-Sep-2024 13:48:50.949 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+21-Sep-2024 13:48:50.982 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [481] milliseconds
+21-Sep-2024 13:48:51.043 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+21-Sep-2024 13:48:51.043 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.28]
+21-Sep-2024 13:48:51.055 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList\conf\Catalina\localhost\Chapter05_Murach_EmailList.xml]
+21-Sep-2024 13:48:51.402 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+21-Sep-2024 13:48:51.445 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList\conf\Catalina\localhost\Chapter05_Murach_EmailList.xml] has finished in [390] ms
+21-Sep-2024 13:48:51.446 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList\conf\Catalina\localhost\WebApplication1.xml]
+21-Sep-2024 13:48:51.448 WARNING [main] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/WebApplication1] in deployment descriptor [C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList\conf\Catalina\localhost\WebApplication1.xml] has been ignored
+21-Sep-2024 13:48:51.504 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+21-Sep-2024 13:48:51.506 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList\conf\Catalina\localhost\WebApplication1.xml] has finished in [60] ms
+21-Sep-2024 13:48:51.510 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+21-Sep-2024 13:48:51.535 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [552] milliseconds
+21-Sep-2024 13:50:08.037 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+21-Sep-2024 13:50:08.042 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+21-Sep-2024 13:50:08.056 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+21-Sep-2024 13:50:08.077 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+21-Sep-2024 13:50:09.151 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.1.28
+21-Sep-2024 13:50:09.157 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Aug 2 2024 15:14:43 UTC
+21-Sep-2024 13:50:09.157 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.1.28.0
+21-Sep-2024 13:50:09.157 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+21-Sep-2024 13:50:09.157 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+21-Sep-2024 13:50:09.157 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+21-Sep-2024 13:50:09.158 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-21
+21-Sep-2024 13:50:09.158 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           21.0.3+7-LTS-152
+21-Sep-2024 13:50:09.158 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+21-Sep-2024 13:50:09.158 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList
+21-Sep-2024 13:50:09.158 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\apache-tomcat-10.1.28
+21-Sep-2024 13:50:09.171 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+21-Sep-2024 13:50:09.172 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+21-Sep-2024 13:50:09.172 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+21-Sep-2024 13:50:09.172 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+21-Sep-2024 13:50:09.172 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+21-Sep-2024 13:50:09.172 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -agentlib:jdwp=transport=dt_socket,address=127.0.0.1:60559,suspend=y,server=n
+21-Sep-2024 13:50:09.172 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\apache-tomcat-10.1.28
+21-Sep-2024 13:50:09.172 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList
+21-Sep-2024 13:50:09.172 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList\temp
+21-Sep-2024 13:50:09.172 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList\conf\logging.properties
+21-Sep-2024 13:50:09.172 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+21-Sep-2024 13:50:09.172 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Users\Ghelix\AppData\Local\JetBrains\IntelliJIdea2024.2\captureAgent\debugger-agent.jar
+21-Sep-2024 13:50:09.173 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dkotlinx.coroutines.debug.enable.creation.stack.trace=false
+21-Sep-2024 13:50:09.173 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Ddebugger.agent.enable.coroutines=true
+21-Sep-2024 13:50:09.173 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+21-Sep-2024 13:50:09.173 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stdout.encoding=UTF-8
+21-Sep-2024 13:50:09.173 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stderr.encoding=UTF-8
+21-Sep-2024 13:50:09.176 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [2.0.8] using APR version [1.7.4].
+21-Sep-2024 13:50:09.181 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.0.14 4 Jun 2024]
+21-Sep-2024 13:50:09.510 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+21-Sep-2024 13:50:09.533 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [551] milliseconds
+21-Sep-2024 13:50:09.590 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+21-Sep-2024 13:50:09.590 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.28]
+21-Sep-2024 13:50:09.600 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList\conf\Catalina\localhost\Chapter05_Murach_EmailList.xml]
+21-Sep-2024 13:50:09.932 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+21-Sep-2024 13:50:09.971 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList\conf\Catalina\localhost\Chapter05_Murach_EmailList.xml] has finished in [371] ms
+21-Sep-2024 13:50:09.972 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList\conf\Catalina\localhost\WebApplication1.xml]
+21-Sep-2024 13:50:09.973 WARNING [main] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/WebApplication1] in deployment descriptor [C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList\conf\Catalina\localhost\WebApplication1.xml] has been ignored
+21-Sep-2024 13:50:10.030 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+21-Sep-2024 13:50:10.033 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList\conf\Catalina\localhost\WebApplication1.xml] has finished in [61] ms
+21-Sep-2024 13:50:10.038 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+21-Sep-2024 13:50:10.064 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [530] milliseconds
+21-Sep-2024 13:50:54.871 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+21-Sep-2024 13:50:54.877 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+21-Sep-2024 13:50:54.878 INFO [Thread-1] org.apache.catalina.core.StandardWrapper.unload Waiting for [1] instance(s) to be deallocated for Servlet [jsp]
+21-Sep-2024 13:50:54.988 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+21-Sep-2024 13:50:54.995 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+21-Sep-2024 13:50:56.202 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.1.28
+21-Sep-2024 13:50:56.206 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Aug 2 2024 15:14:43 UTC
+21-Sep-2024 13:50:56.207 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.1.28.0
+21-Sep-2024 13:50:56.207 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+21-Sep-2024 13:50:56.207 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+21-Sep-2024 13:50:56.207 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+21-Sep-2024 13:50:56.207 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-21
+21-Sep-2024 13:50:56.207 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           21.0.3+7-LTS-152
+21-Sep-2024 13:50:56.208 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+21-Sep-2024 13:50:56.208 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList
+21-Sep-2024 13:50:56.208 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\apache-tomcat-10.1.28
+21-Sep-2024 13:50:56.224 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+21-Sep-2024 13:50:56.224 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+21-Sep-2024 13:50:56.224 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+21-Sep-2024 13:50:56.224 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+21-Sep-2024 13:50:56.224 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+21-Sep-2024 13:50:56.224 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -agentlib:jdwp=transport=dt_socket,address=127.0.0.1:60581,suspend=y,server=n
+21-Sep-2024 13:50:56.224 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\apache-tomcat-10.1.28
+21-Sep-2024 13:50:56.224 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList
+21-Sep-2024 13:50:56.224 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList\temp
+21-Sep-2024 13:50:56.224 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList\conf\logging.properties
+21-Sep-2024 13:50:56.224 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+21-Sep-2024 13:50:56.226 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Users\Ghelix\AppData\Local\JetBrains\IntelliJIdea2024.2\captureAgent\debugger-agent.jar
+21-Sep-2024 13:50:56.226 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dkotlinx.coroutines.debug.enable.creation.stack.trace=false
+21-Sep-2024 13:50:56.226 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Ddebugger.agent.enable.coroutines=true
+21-Sep-2024 13:50:56.226 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+21-Sep-2024 13:50:56.226 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stdout.encoding=UTF-8
+21-Sep-2024 13:50:56.226 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stderr.encoding=UTF-8
+21-Sep-2024 13:50:56.229 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [2.0.8] using APR version [1.7.4].
+21-Sep-2024 13:50:56.236 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.0.14 4 Jun 2024]
+21-Sep-2024 13:50:56.506 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+21-Sep-2024 13:50:56.537 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [523] milliseconds
+21-Sep-2024 13:50:56.598 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+21-Sep-2024 13:50:56.598 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.28]
+21-Sep-2024 13:50:56.612 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList\conf\Catalina\localhost\Chapter05_Murach_EmailList.xml]
+21-Sep-2024 13:50:58.391 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.1.28
+21-Sep-2024 13:50:58.395 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Aug 2 2024 15:14:43 UTC
+21-Sep-2024 13:50:58.396 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.1.28.0
+21-Sep-2024 13:50:58.396 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+21-Sep-2024 13:50:58.396 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+21-Sep-2024 13:50:58.397 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+21-Sep-2024 13:50:58.397 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-21
+21-Sep-2024 13:50:58.397 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           21.0.3+7-LTS-152
+21-Sep-2024 13:50:58.397 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+21-Sep-2024 13:50:58.397 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList
+21-Sep-2024 13:50:58.397 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\apache-tomcat-10.1.28
+21-Sep-2024 13:50:58.407 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+21-Sep-2024 13:50:58.407 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+21-Sep-2024 13:50:58.408 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+21-Sep-2024 13:50:58.408 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+21-Sep-2024 13:50:58.408 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+21-Sep-2024 13:50:58.408 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\apache-tomcat-10.1.28
+21-Sep-2024 13:50:58.408 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList
+21-Sep-2024 13:50:58.408 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList\temp
+21-Sep-2024 13:50:58.408 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList\conf\logging.properties
+21-Sep-2024 13:50:58.408 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+21-Sep-2024 13:50:58.408 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2024.2.0.2\lib\idea_rt.jar=60585:C:\Program Files\JetBrains\IntelliJ IDEA 2024.2.0.2\bin
+21-Sep-2024 13:50:58.408 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+21-Sep-2024 13:50:58.408 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stdout.encoding=UTF-8
+21-Sep-2024 13:50:58.408 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stderr.encoding=UTF-8
+21-Sep-2024 13:50:58.411 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [2.0.8] using APR version [1.7.4].
+21-Sep-2024 13:50:58.415 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.0.14 4 Jun 2024]
+21-Sep-2024 13:50:58.702 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+21-Sep-2024 13:50:58.724 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [490] milliseconds
+21-Sep-2024 13:50:58.771 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+21-Sep-2024 13:50:58.771 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.28]
+21-Sep-2024 13:50:58.782 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList\conf\Catalina\localhost\Chapter05_Murach_EmailList.xml]
+21-Sep-2024 13:50:59.106 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+21-Sep-2024 13:50:59.169 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList\conf\Catalina\localhost\Chapter05_Murach_EmailList.xml] has finished in [387] ms
+21-Sep-2024 13:50:59.171 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList\conf\Catalina\localhost\WebApplication1.xml]
+21-Sep-2024 13:50:59.172 WARNING [main] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/WebApplication1] in deployment descriptor [C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList\conf\Catalina\localhost\WebApplication1.xml] has been ignored
+21-Sep-2024 13:50:59.231 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+21-Sep-2024 13:50:59.234 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList\conf\Catalina\localhost\WebApplication1.xml] has finished in [65] ms
+21-Sep-2024 13:50:59.237 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+21-Sep-2024 13:50:59.257 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [533] milliseconds
+21-Sep-2024 13:53:39.477 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+21-Sep-2024 13:53:39.483 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+21-Sep-2024 13:53:39.490 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+21-Sep-2024 13:53:39.493 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+21-Sep-2024 13:53:41.125 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.1.28
+21-Sep-2024 13:53:41.133 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Aug 2 2024 15:14:43 UTC
+21-Sep-2024 13:53:41.133 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.1.28.0
+21-Sep-2024 13:53:41.133 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+21-Sep-2024 13:53:41.133 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+21-Sep-2024 13:53:41.138 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+21-Sep-2024 13:53:41.139 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-21
+21-Sep-2024 13:53:41.139 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           21.0.3+7-LTS-152
+21-Sep-2024 13:53:41.139 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+21-Sep-2024 13:53:41.139 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList
+21-Sep-2024 13:53:41.139 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\apache-tomcat-10.1.28
+21-Sep-2024 13:53:41.151 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+21-Sep-2024 13:53:41.151 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+21-Sep-2024 13:53:41.151 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+21-Sep-2024 13:53:41.151 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+21-Sep-2024 13:53:41.151 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+21-Sep-2024 13:53:41.151 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -agentlib:jdwp=transport=dt_socket,address=127.0.0.1:60677,suspend=y,server=n
+21-Sep-2024 13:53:41.151 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\apache-tomcat-10.1.28
+21-Sep-2024 13:53:41.151 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList
+21-Sep-2024 13:53:41.151 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList\temp
+21-Sep-2024 13:53:41.152 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList\conf\logging.properties
+21-Sep-2024 13:53:41.152 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+21-Sep-2024 13:53:41.152 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Users\Ghelix\AppData\Local\JetBrains\IntelliJIdea2024.2\captureAgent\debugger-agent.jar
+21-Sep-2024 13:53:41.152 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dkotlinx.coroutines.debug.enable.creation.stack.trace=false
+21-Sep-2024 13:53:41.152 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Ddebugger.agent.enable.coroutines=true
+21-Sep-2024 13:53:41.152 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+21-Sep-2024 13:53:41.152 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stdout.encoding=UTF-8
+21-Sep-2024 13:53:41.152 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stderr.encoding=UTF-8
+21-Sep-2024 13:53:41.156 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [2.0.8] using APR version [1.7.4].
+21-Sep-2024 13:53:41.163 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.0.14 4 Jun 2024]
+21-Sep-2024 13:53:41.439 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+21-Sep-2024 13:53:41.466 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [521] milliseconds
+21-Sep-2024 13:53:41.524 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+21-Sep-2024 13:53:41.524 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.28]
+21-Sep-2024 13:53:41.535 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList\conf\Catalina\localhost\Chapter05_Murach_EmailList.xml]
+21-Sep-2024 13:53:42.002 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+21-Sep-2024 13:53:42.077 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList\conf\Catalina\localhost\Chapter05_Murach_EmailList.xml] has finished in [542] ms
+21-Sep-2024 13:53:42.078 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList\conf\Catalina\localhost\WebApplication1.xml]
+21-Sep-2024 13:53:42.079 WARNING [main] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/WebApplication1] in deployment descriptor [C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList\conf\Catalina\localhost\WebApplication1.xml] has been ignored
+21-Sep-2024 13:53:42.174 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+21-Sep-2024 13:53:42.179 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList\conf\Catalina\localhost\WebApplication1.xml] has finished in [101] ms
+21-Sep-2024 13:53:42.187 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+21-Sep-2024 13:53:42.232 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [765] milliseconds
+21-Sep-2024 13:54:11.637 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+21-Sep-2024 13:54:11.641 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+21-Sep-2024 13:54:11.650 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+21-Sep-2024 13:54:11.654 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+21-Sep-2024 13:54:12.936 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.1.28
+21-Sep-2024 13:54:12.941 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Aug 2 2024 15:14:43 UTC
+21-Sep-2024 13:54:12.941 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.1.28.0
+21-Sep-2024 13:54:12.942 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+21-Sep-2024 13:54:12.942 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+21-Sep-2024 13:54:12.942 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+21-Sep-2024 13:54:12.942 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-21
+21-Sep-2024 13:54:12.942 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           21.0.3+7-LTS-152
+21-Sep-2024 13:54:12.942 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+21-Sep-2024 13:54:12.942 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList
+21-Sep-2024 13:54:12.942 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\apache-tomcat-10.1.28
+21-Sep-2024 13:54:12.960 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+21-Sep-2024 13:54:12.961 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+21-Sep-2024 13:54:12.961 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+21-Sep-2024 13:54:12.961 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+21-Sep-2024 13:54:12.961 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+21-Sep-2024 13:54:12.961 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -agentlib:jdwp=transport=dt_socket,address=127.0.0.1:60693,suspend=y,server=n
+21-Sep-2024 13:54:12.961 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\apache-tomcat-10.1.28
+21-Sep-2024 13:54:12.961 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList
+21-Sep-2024 13:54:12.961 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList\temp
+21-Sep-2024 13:54:12.962 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList\conf\logging.properties
+21-Sep-2024 13:54:12.962 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+21-Sep-2024 13:54:12.962 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Users\Ghelix\AppData\Local\JetBrains\IntelliJIdea2024.2\captureAgent\debugger-agent.jar
+21-Sep-2024 13:54:12.962 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dkotlinx.coroutines.debug.enable.creation.stack.trace=false
+21-Sep-2024 13:54:12.962 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Ddebugger.agent.enable.coroutines=true
+21-Sep-2024 13:54:12.962 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+21-Sep-2024 13:54:12.963 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stdout.encoding=UTF-8
+21-Sep-2024 13:54:12.963 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stderr.encoding=UTF-8
+21-Sep-2024 13:54:12.966 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [2.0.8] using APR version [1.7.4].
+21-Sep-2024 13:54:12.972 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.0.14 4 Jun 2024]
+21-Sep-2024 13:54:13.286 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+21-Sep-2024 13:54:13.309 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [544] milliseconds
+21-Sep-2024 13:54:13.370 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+21-Sep-2024 13:54:13.370 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.28]
+21-Sep-2024 13:54:13.380 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList\conf\Catalina\localhost\Chapter05_Murach_EmailList.xml]
+21-Sep-2024 13:54:13.937 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+21-Sep-2024 13:54:14.014 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList\conf\Catalina\localhost\Chapter05_Murach_EmailList.xml] has finished in [633] ms
+21-Sep-2024 13:54:14.015 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList\conf\Catalina\localhost\WebApplication1.xml]
+21-Sep-2024 13:54:14.018 WARNING [main] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/WebApplication1] in deployment descriptor [C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList\conf\Catalina\localhost\WebApplication1.xml] has been ignored
+21-Sep-2024 13:54:14.122 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+21-Sep-2024 13:54:14.126 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList\conf\Catalina\localhost\WebApplication1.xml] has finished in [110] ms
+21-Sep-2024 13:54:14.136 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+21-Sep-2024 13:54:14.177 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [867] milliseconds
+21-Sep-2024 13:54:24.010 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+21-Sep-2024 13:54:24.018 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+21-Sep-2024 13:54:24.019 INFO [Thread-1] org.apache.catalina.core.StandardWrapper.unload Waiting for [1] instance(s) to be deallocated for Servlet [jsp]
+21-Sep-2024 13:54:24.467 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+21-Sep-2024 13:54:24.471 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+21-Sep-2024 13:54:26.557 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.1.28
+21-Sep-2024 13:54:26.566 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Aug 2 2024 15:14:43 UTC
+21-Sep-2024 13:54:26.566 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.1.28.0
+21-Sep-2024 13:54:26.567 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+21-Sep-2024 13:54:26.567 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+21-Sep-2024 13:54:26.567 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+21-Sep-2024 13:54:26.567 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-21
+21-Sep-2024 13:54:26.568 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           21.0.3+7-LTS-152
+21-Sep-2024 13:54:26.568 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+21-Sep-2024 13:54:26.568 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList
+21-Sep-2024 13:54:26.568 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\apache-tomcat-10.1.28
+21-Sep-2024 13:54:26.597 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+21-Sep-2024 13:54:26.597 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+21-Sep-2024 13:54:26.597 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+21-Sep-2024 13:54:26.597 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+21-Sep-2024 13:54:26.597 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+21-Sep-2024 13:54:26.597 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -agentlib:jdwp=transport=dt_socket,address=127.0.0.1:60700,suspend=y,server=n
+21-Sep-2024 13:54:26.597 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\apache-tomcat-10.1.28
+21-Sep-2024 13:54:26.597 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList
+21-Sep-2024 13:54:26.599 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList\temp
+21-Sep-2024 13:54:26.599 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList\conf\logging.properties
+21-Sep-2024 13:54:26.599 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+21-Sep-2024 13:54:26.599 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Users\Ghelix\AppData\Local\JetBrains\IntelliJIdea2024.2\captureAgent\debugger-agent.jar
+21-Sep-2024 13:54:26.599 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dkotlinx.coroutines.debug.enable.creation.stack.trace=false
+21-Sep-2024 13:54:26.600 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Ddebugger.agent.enable.coroutines=true
+21-Sep-2024 13:54:26.600 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+21-Sep-2024 13:54:26.600 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stdout.encoding=UTF-8
+21-Sep-2024 13:54:26.600 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stderr.encoding=UTF-8
+21-Sep-2024 13:54:26.605 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [2.0.8] using APR version [1.7.4].
+21-Sep-2024 13:54:26.615 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.0.14 4 Jun 2024]
+21-Sep-2024 13:54:27.114 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+21-Sep-2024 13:54:27.160 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [920] milliseconds
+21-Sep-2024 13:54:27.259 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+21-Sep-2024 13:54:27.259 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.28]
+21-Sep-2024 13:54:27.284 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList\conf\Catalina\localhost\Chapter05_Murach_EmailList.xml]
+21-Sep-2024 13:54:28.099 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+21-Sep-2024 13:54:28.204 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList\conf\Catalina\localhost\Chapter05_Murach_EmailList.xml] has finished in [919] ms
+21-Sep-2024 13:54:28.204 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList\conf\Catalina\localhost\WebApplication1.xml]
+21-Sep-2024 13:54:28.206 WARNING [main] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/WebApplication1] in deployment descriptor [C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList\conf\Catalina\localhost\WebApplication1.xml] has been ignored
+21-Sep-2024 13:54:28.371 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+21-Sep-2024 13:54:28.377 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList\conf\Catalina\localhost\WebApplication1.xml] has finished in [173] ms
+21-Sep-2024 13:54:28.389 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+21-Sep-2024 13:54:28.459 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [1296] milliseconds
+21-Sep-2024 13:55:07.871 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+21-Sep-2024 13:55:07.880 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+21-Sep-2024 13:55:07.895 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+21-Sep-2024 13:55:07.915 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+21-Sep-2024 13:55:48.196 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.1.28
+21-Sep-2024 13:55:48.202 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Aug 2 2024 15:14:43 UTC
+21-Sep-2024 13:55:48.202 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.1.28.0
+21-Sep-2024 13:55:48.202 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+21-Sep-2024 13:55:48.202 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+21-Sep-2024 13:55:48.203 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+21-Sep-2024 13:55:48.203 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-21
+21-Sep-2024 13:55:48.203 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           21.0.3+7-LTS-152
+21-Sep-2024 13:55:48.203 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+21-Sep-2024 13:55:48.203 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList
+21-Sep-2024 13:55:48.203 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\apache-tomcat-10.1.28
+21-Sep-2024 13:55:48.211 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+21-Sep-2024 13:55:48.211 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+21-Sep-2024 13:55:48.211 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+21-Sep-2024 13:55:48.211 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+21-Sep-2024 13:55:48.211 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+21-Sep-2024 13:55:48.211 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\apache-tomcat-10.1.28
+21-Sep-2024 13:55:48.213 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList
+21-Sep-2024 13:55:48.213 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList\temp
+21-Sep-2024 13:55:48.213 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList\conf\logging.properties
+21-Sep-2024 13:55:48.213 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+21-Sep-2024 13:55:48.213 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2024.2.0.2\lib\idea_rt.jar=60730:C:\Program Files\JetBrains\IntelliJ IDEA 2024.2.0.2\bin
+21-Sep-2024 13:55:48.213 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+21-Sep-2024 13:55:48.213 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stdout.encoding=UTF-8
+21-Sep-2024 13:55:48.213 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stderr.encoding=UTF-8
+21-Sep-2024 13:55:48.215 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [2.0.8] using APR version [1.7.4].
+21-Sep-2024 13:55:48.220 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.0.14 4 Jun 2024]
+21-Sep-2024 13:55:48.500 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+21-Sep-2024 13:55:48.518 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [478] milliseconds
+21-Sep-2024 13:55:48.568 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+21-Sep-2024 13:55:48.568 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.28]
+21-Sep-2024 13:55:48.578 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList\conf\Catalina\localhost\Chapter05_Murach_EmailList.xml]
+21-Sep-2024 13:55:48.895 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+21-Sep-2024 13:55:48.936 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList\conf\Catalina\localhost\Chapter05_Murach_EmailList.xml] has finished in [358] ms
+21-Sep-2024 13:55:48.937 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList\conf\Catalina\localhost\WebApplication1.xml]
+21-Sep-2024 13:55:48.938 WARNING [main] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/WebApplication1] in deployment descriptor [C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList\conf\Catalina\localhost\WebApplication1.xml] has been ignored
+21-Sep-2024 13:55:48.980 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+21-Sep-2024 13:55:48.982 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList\conf\Catalina\localhost\WebApplication1.xml] has finished in [45] ms
+21-Sep-2024 13:55:48.984 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+21-Sep-2024 13:55:48.999 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [480] milliseconds
+21-Sep-2024 14:00:55.919 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+21-Sep-2024 14:00:55.923 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+21-Sep-2024 14:00:55.935 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+21-Sep-2024 14:00:55.958 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+21-Sep-2024 19:10:22.485 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.1.28
+21-Sep-2024 19:10:22.490 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Aug 2 2024 15:14:43 UTC
+21-Sep-2024 19:10:22.490 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.1.28.0
+21-Sep-2024 19:10:22.490 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+21-Sep-2024 19:10:22.490 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+21-Sep-2024 19:10:22.490 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+21-Sep-2024 19:10:22.490 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-21
+21-Sep-2024 19:10:22.492 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           21.0.3+7-LTS-152
+21-Sep-2024 19:10:22.492 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+21-Sep-2024 19:10:22.492 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList
+21-Sep-2024 19:10:22.492 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\apache-tomcat-10.1.28
+21-Sep-2024 19:10:22.505 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+21-Sep-2024 19:10:22.506 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+21-Sep-2024 19:10:22.506 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+21-Sep-2024 19:10:22.506 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+21-Sep-2024 19:10:22.506 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+21-Sep-2024 19:10:22.506 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\apache-tomcat-10.1.28
+21-Sep-2024 19:10:22.506 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList
+21-Sep-2024 19:10:22.506 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList\temp
+21-Sep-2024 19:10:22.506 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList\conf\logging.properties
+21-Sep-2024 19:10:22.506 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+21-Sep-2024 19:10:22.508 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2024.2.0.2\lib\idea_rt.jar=49928:C:\Program Files\JetBrains\IntelliJ IDEA 2024.2.0.2\bin
+21-Sep-2024 19:10:22.508 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+21-Sep-2024 19:10:22.508 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stdout.encoding=UTF-8
+21-Sep-2024 19:10:22.508 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stderr.encoding=UTF-8
+21-Sep-2024 19:10:22.552 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [2.0.8] using APR version [1.7.4].
+21-Sep-2024 19:10:22.556 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.0.14 4 Jun 2024]
+21-Sep-2024 19:10:22.858 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+21-Sep-2024 19:10:22.878 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [615] milliseconds
+21-Sep-2024 19:10:22.954 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+21-Sep-2024 19:10:22.955 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.28]
+21-Sep-2024 19:10:22.988 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList\conf\Catalina\localhost\Chapter05_Murach_EmailList.xml]
+21-Sep-2024 19:10:23.515 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+21-Sep-2024 19:10:23.614 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList\conf\Catalina\localhost\Chapter05_Murach_EmailList.xml] has finished in [625] ms
+21-Sep-2024 19:10:23.614 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList\conf\Catalina\localhost\WebApplication1.xml]
+21-Sep-2024 19:10:23.616 WARNING [main] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/WebApplication1] in deployment descriptor [C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList\conf\Catalina\localhost\WebApplication1.xml] has been ignored
+21-Sep-2024 19:10:23.703 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+21-Sep-2024 19:10:23.707 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList\conf\Catalina\localhost\WebApplication1.xml] has finished in [93] ms
+21-Sep-2024 19:10:23.713 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+21-Sep-2024 19:10:23.747 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [868] milliseconds
+21-Sep-2024 20:03:59.211 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+21-Sep-2024 20:03:59.214 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+21-Sep-2024 20:03:59.223 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+21-Sep-2024 20:03:59.227 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+21-Sep-2024 20:04:01.174 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.1.28
+21-Sep-2024 20:04:01.177 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Aug 2 2024 15:14:43 UTC
+21-Sep-2024 20:04:01.177 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.1.28.0
+21-Sep-2024 20:04:01.177 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+21-Sep-2024 20:04:01.177 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+21-Sep-2024 20:04:01.177 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+21-Sep-2024 20:04:01.177 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-21
+21-Sep-2024 20:04:01.177 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           21.0.3+7-LTS-152
+21-Sep-2024 20:04:01.178 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+21-Sep-2024 20:04:01.178 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList
+21-Sep-2024 20:04:01.178 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\apache-tomcat-10.1.28
+21-Sep-2024 20:04:01.184 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+21-Sep-2024 20:04:01.185 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+21-Sep-2024 20:04:01.185 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+21-Sep-2024 20:04:01.185 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+21-Sep-2024 20:04:01.185 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+21-Sep-2024 20:04:01.185 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\apache-tomcat-10.1.28
+21-Sep-2024 20:04:01.185 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList
+21-Sep-2024 20:04:01.185 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList\temp
+21-Sep-2024 20:04:01.185 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList\conf\logging.properties
+21-Sep-2024 20:04:01.185 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+21-Sep-2024 20:04:01.185 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2024.2.0.2\lib\idea_rt.jar=50588:C:\Program Files\JetBrains\IntelliJ IDEA 2024.2.0.2\bin
+21-Sep-2024 20:04:01.185 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+21-Sep-2024 20:04:01.186 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stdout.encoding=UTF-8
+21-Sep-2024 20:04:01.186 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stderr.encoding=UTF-8
+21-Sep-2024 20:04:01.187 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [2.0.8] using APR version [1.7.4].
+21-Sep-2024 20:04:01.191 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.0.14 4 Jun 2024]
+21-Sep-2024 20:04:01.423 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+21-Sep-2024 20:04:01.439 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [403] milliseconds
+21-Sep-2024 20:04:01.489 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+21-Sep-2024 20:04:01.489 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.28]
+21-Sep-2024 20:04:01.500 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList\conf\Catalina\localhost\Chapter05_Murach_EmailList.xml]
+21-Sep-2024 20:04:01.766 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+21-Sep-2024 20:04:01.805 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList\conf\Catalina\localhost\Chapter05_Murach_EmailList.xml] has finished in [304] ms
+21-Sep-2024 20:04:01.805 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList\conf\Catalina\localhost\WebApplication1.xml]
+21-Sep-2024 20:04:01.806 WARNING [main] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/WebApplication1] in deployment descriptor [C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList\conf\Catalina\localhost\WebApplication1.xml] has been ignored
+21-Sep-2024 20:04:01.860 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+21-Sep-2024 20:04:01.861 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList\conf\Catalina\localhost\WebApplication1.xml] has finished in [56] ms
+21-Sep-2024 20:04:01.864 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+21-Sep-2024 20:04:01.885 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [444] milliseconds
+21-Sep-2024 20:11:47.038 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+21-Sep-2024 20:11:47.041 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+21-Sep-2024 20:11:47.050 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+21-Sep-2024 20:11:47.053 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+21-Sep-2024 20:11:48.497 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.1.28
+21-Sep-2024 20:11:48.501 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Aug 2 2024 15:14:43 UTC
+21-Sep-2024 20:11:48.501 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.1.28.0
+21-Sep-2024 20:11:48.502 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+21-Sep-2024 20:11:48.502 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+21-Sep-2024 20:11:48.502 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+21-Sep-2024 20:11:48.502 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-21
+21-Sep-2024 20:11:48.502 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           21.0.3+7-LTS-152
+21-Sep-2024 20:11:48.502 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+21-Sep-2024 20:11:48.503 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList
+21-Sep-2024 20:11:48.503 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\apache-tomcat-10.1.28
+21-Sep-2024 20:11:48.508 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+21-Sep-2024 20:11:48.510 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+21-Sep-2024 20:11:48.510 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+21-Sep-2024 20:11:48.510 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+21-Sep-2024 20:11:48.510 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+21-Sep-2024 20:11:48.510 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\apache-tomcat-10.1.28
+21-Sep-2024 20:11:48.510 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList
+21-Sep-2024 20:11:48.510 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList\temp
+21-Sep-2024 20:11:48.510 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList\conf\logging.properties
+21-Sep-2024 20:11:48.510 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+21-Sep-2024 20:11:48.510 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2024.2.0.2\lib\idea_rt.jar=50744:C:\Program Files\JetBrains\IntelliJ IDEA 2024.2.0.2\bin
+21-Sep-2024 20:11:48.510 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+21-Sep-2024 20:11:48.510 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stdout.encoding=UTF-8
+21-Sep-2024 20:11:48.511 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stderr.encoding=UTF-8
+21-Sep-2024 20:11:48.512 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [2.0.8] using APR version [1.7.4].
+21-Sep-2024 20:11:48.516 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.0.14 4 Jun 2024]
+21-Sep-2024 20:11:48.780 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+21-Sep-2024 20:11:48.797 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [467] milliseconds
+21-Sep-2024 20:11:48.841 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+21-Sep-2024 20:11:48.841 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.28]
+21-Sep-2024 20:11:48.851 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList\conf\Catalina\localhost\Chapter05_Murach_EmailList.xml]
+21-Sep-2024 20:11:49.125 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+21-Sep-2024 20:11:49.170 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList\conf\Catalina\localhost\Chapter05_Murach_EmailList.xml] has finished in [319] ms
+21-Sep-2024 20:11:49.170 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList\conf\Catalina\localhost\WebApplication1.xml]
+21-Sep-2024 20:11:49.172 WARNING [main] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/WebApplication1] in deployment descriptor [C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList\conf\Catalina\localhost\WebApplication1.xml] has been ignored
+21-Sep-2024 20:11:49.212 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+21-Sep-2024 20:11:49.214 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList\conf\Catalina\localhost\WebApplication1.xml] has finished in [44] ms
+21-Sep-2024 20:11:49.217 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+21-Sep-2024 20:11:49.231 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [434] milliseconds
+21-Sep-2024 20:24:48.960 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+21-Sep-2024 20:24:48.965 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+21-Sep-2024 20:24:48.974 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+21-Sep-2024 20:24:48.981 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+21-Sep-2024 20:24:51.317 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.1.28
+21-Sep-2024 20:24:51.320 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Aug 2 2024 15:14:43 UTC
+21-Sep-2024 20:24:51.320 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.1.28.0
+21-Sep-2024 20:24:51.322 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+21-Sep-2024 20:24:51.322 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+21-Sep-2024 20:24:51.322 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+21-Sep-2024 20:24:51.322 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-21
+21-Sep-2024 20:24:51.322 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           21.0.3+7-LTS-152
+21-Sep-2024 20:24:51.322 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+21-Sep-2024 20:24:51.322 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList
+21-Sep-2024 20:24:51.322 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\apache-tomcat-10.1.28
+21-Sep-2024 20:24:51.329 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+21-Sep-2024 20:24:51.329 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+21-Sep-2024 20:24:51.330 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+21-Sep-2024 20:24:51.330 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+21-Sep-2024 20:24:51.330 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+21-Sep-2024 20:24:51.330 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\apache-tomcat-10.1.28
+21-Sep-2024 20:24:51.330 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList
+21-Sep-2024 20:24:51.330 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList\temp
+21-Sep-2024 20:24:51.330 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList\conf\logging.properties
+21-Sep-2024 20:24:51.330 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+21-Sep-2024 20:24:51.330 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2024.2.0.2\lib\idea_rt.jar=51229:C:\Program Files\JetBrains\IntelliJ IDEA 2024.2.0.2\bin
+21-Sep-2024 20:24:51.330 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+21-Sep-2024 20:24:51.332 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stdout.encoding=UTF-8
+21-Sep-2024 20:24:51.332 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stderr.encoding=UTF-8
+21-Sep-2024 20:24:51.334 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [2.0.8] using APR version [1.7.4].
+21-Sep-2024 20:24:51.339 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.0.14 4 Jun 2024]
+21-Sep-2024 20:24:51.569 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+21-Sep-2024 20:24:51.591 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [412] milliseconds
+21-Sep-2024 20:24:51.630 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+21-Sep-2024 20:24:51.630 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.28]
+21-Sep-2024 20:24:51.639 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList\conf\Catalina\localhost\Chapter05_Murach_EmailList.xml]
+21-Sep-2024 20:24:51.896 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+21-Sep-2024 20:24:51.929 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList\conf\Catalina\localhost\Chapter05_Murach_EmailList.xml] has finished in [290] ms
+21-Sep-2024 20:24:51.929 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList\conf\Catalina\localhost\WebApplication1.xml]
+21-Sep-2024 20:24:51.930 WARNING [main] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/WebApplication1] in deployment descriptor [C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList\conf\Catalina\localhost\WebApplication1.xml] has been ignored
+21-Sep-2024 20:24:51.966 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+21-Sep-2024 20:24:51.968 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList\conf\Catalina\localhost\WebApplication1.xml] has finished in [39] ms
+21-Sep-2024 20:24:51.971 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+21-Sep-2024 20:24:51.986 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [394] milliseconds
+21-Sep-2024 20:26:05.321 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+21-Sep-2024 20:26:05.323 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+21-Sep-2024 20:26:05.330 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+21-Sep-2024 20:26:05.333 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+21-Sep-2024 20:26:06.690 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.1.28
+21-Sep-2024 20:26:06.694 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Aug 2 2024 15:14:43 UTC
+21-Sep-2024 20:26:06.694 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.1.28.0
+21-Sep-2024 20:26:06.694 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+21-Sep-2024 20:26:06.694 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+21-Sep-2024 20:26:06.694 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+21-Sep-2024 20:26:06.695 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-21
+21-Sep-2024 20:26:06.695 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           21.0.3+7-LTS-152
+21-Sep-2024 20:26:06.695 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+21-Sep-2024 20:26:06.695 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList
+21-Sep-2024 20:26:06.695 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\apache-tomcat-10.1.28
+21-Sep-2024 20:26:06.702 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+21-Sep-2024 20:26:06.703 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+21-Sep-2024 20:26:06.703 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+21-Sep-2024 20:26:06.703 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+21-Sep-2024 20:26:06.703 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+21-Sep-2024 20:26:06.703 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\apache-tomcat-10.1.28
+21-Sep-2024 20:26:06.703 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList
+21-Sep-2024 20:26:06.703 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList\temp
+21-Sep-2024 20:26:06.703 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList\conf\logging.properties
+21-Sep-2024 20:26:06.703 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+21-Sep-2024 20:26:06.703 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2024.2.0.2\lib\idea_rt.jar=51258:C:\Program Files\JetBrains\IntelliJ IDEA 2024.2.0.2\bin
+21-Sep-2024 20:26:06.703 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+21-Sep-2024 20:26:06.703 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stdout.encoding=UTF-8
+21-Sep-2024 20:26:06.703 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stderr.encoding=UTF-8
+21-Sep-2024 20:26:06.705 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [2.0.8] using APR version [1.7.4].
+21-Sep-2024 20:26:06.710 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.0.14 4 Jun 2024]
+21-Sep-2024 20:26:06.956 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+21-Sep-2024 20:26:06.974 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [449] milliseconds
+21-Sep-2024 20:26:07.021 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+21-Sep-2024 20:26:07.021 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.28]
+21-Sep-2024 20:26:07.030 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList\conf\Catalina\localhost\Chapter05_Murach_EmailList.xml]
+21-Sep-2024 20:26:07.309 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+21-Sep-2024 20:26:07.352 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList\conf\Catalina\localhost\Chapter05_Murach_EmailList.xml] has finished in [322] ms
+21-Sep-2024 20:26:07.352 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList\conf\Catalina\localhost\WebApplication1.xml]
+21-Sep-2024 20:26:07.353 WARNING [main] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/WebApplication1] in deployment descriptor [C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList\conf\Catalina\localhost\WebApplication1.xml] has been ignored
+21-Sep-2024 20:26:07.413 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+21-Sep-2024 20:26:07.415 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList\conf\Catalina\localhost\WebApplication1.xml] has finished in [62] ms
+21-Sep-2024 20:26:07.418 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+21-Sep-2024 20:26:07.438 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [462] milliseconds
+21-Sep-2024 20:44:06.040 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+21-Sep-2024 20:44:06.044 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+21-Sep-2024 20:44:06.053 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+21-Sep-2024 20:44:06.056 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+21-Sep-2024 20:44:31.790 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.1.28
+21-Sep-2024 20:44:31.793 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Aug 2 2024 15:14:43 UTC
+21-Sep-2024 20:44:31.793 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.1.28.0
+21-Sep-2024 20:44:31.793 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+21-Sep-2024 20:44:31.793 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+21-Sep-2024 20:44:31.793 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+21-Sep-2024 20:44:31.794 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-21
+21-Sep-2024 20:44:31.794 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           21.0.3+7-LTS-152
+21-Sep-2024 20:44:31.794 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+21-Sep-2024 20:44:31.794 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList
+21-Sep-2024 20:44:31.794 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\apache-tomcat-10.1.28
+21-Sep-2024 20:44:31.801 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+21-Sep-2024 20:44:31.802 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+21-Sep-2024 20:44:31.802 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+21-Sep-2024 20:44:31.802 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+21-Sep-2024 20:44:31.802 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+21-Sep-2024 20:44:31.802 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\apache-tomcat-10.1.28
+21-Sep-2024 20:44:31.802 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList
+21-Sep-2024 20:44:31.802 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList\temp
+21-Sep-2024 20:44:31.802 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList\conf\logging.properties
+21-Sep-2024 20:44:31.802 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+21-Sep-2024 20:44:31.802 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2024.2.0.2\lib\idea_rt.jar=51629:C:\Program Files\JetBrains\IntelliJ IDEA 2024.2.0.2\bin
+21-Sep-2024 20:44:31.802 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+21-Sep-2024 20:44:31.803 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stdout.encoding=UTF-8
+21-Sep-2024 20:44:31.803 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stderr.encoding=UTF-8
+21-Sep-2024 20:44:31.805 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [2.0.8] using APR version [1.7.4].
+21-Sep-2024 20:44:31.810 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.0.14 4 Jun 2024]
+21-Sep-2024 20:44:32.052 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+21-Sep-2024 20:44:32.070 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [416] milliseconds
+21-Sep-2024 20:44:32.110 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+21-Sep-2024 20:44:32.110 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.28]
+21-Sep-2024 20:44:32.119 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList\conf\Catalina\localhost\Chapter05_Murach_EmailList.xml]
+21-Sep-2024 20:44:32.380 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+21-Sep-2024 20:44:32.415 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList\conf\Catalina\localhost\Chapter05_Murach_EmailList.xml] has finished in [296] ms
+21-Sep-2024 20:44:32.415 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList\conf\Catalina\localhost\WebApplication1.xml]
+21-Sep-2024 20:44:32.416 WARNING [main] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/WebApplication1] in deployment descriptor [C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList\conf\Catalina\localhost\WebApplication1.xml] has been ignored
+21-Sep-2024 20:44:32.459 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+21-Sep-2024 20:44:32.460 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList\conf\Catalina\localhost\WebApplication1.xml] has finished in [45] ms
+21-Sep-2024 20:44:32.464 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+21-Sep-2024 20:44:32.480 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [409] milliseconds
+21-Sep-2024 20:47:55.007 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+21-Sep-2024 20:47:55.010 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+21-Sep-2024 20:47:55.017 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+21-Sep-2024 20:47:55.020 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+21-Sep-2024 20:47:56.990 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.1.28
+21-Sep-2024 20:47:56.996 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Aug 2 2024 15:14:43 UTC
+21-Sep-2024 20:47:56.996 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.1.28.0
+21-Sep-2024 20:47:56.996 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+21-Sep-2024 20:47:56.996 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+21-Sep-2024 20:47:56.996 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+21-Sep-2024 20:47:56.997 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-21
+21-Sep-2024 20:47:56.997 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           21.0.3+7-LTS-152
+21-Sep-2024 20:47:56.997 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+21-Sep-2024 20:47:56.997 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList
+21-Sep-2024 20:47:56.997 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\apache-tomcat-10.1.28
+21-Sep-2024 20:47:57.006 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+21-Sep-2024 20:47:57.006 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+21-Sep-2024 20:47:57.006 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+21-Sep-2024 20:47:57.006 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+21-Sep-2024 20:47:57.006 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+21-Sep-2024 20:47:57.006 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\apache-tomcat-10.1.28
+21-Sep-2024 20:47:57.006 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList
+21-Sep-2024 20:47:57.006 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList\temp
+21-Sep-2024 20:47:57.007 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList\conf\logging.properties
+21-Sep-2024 20:47:57.007 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+21-Sep-2024 20:47:57.007 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2024.2.0.2\lib\idea_rt.jar=51679:C:\Program Files\JetBrains\IntelliJ IDEA 2024.2.0.2\bin
+21-Sep-2024 20:47:57.007 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+21-Sep-2024 20:47:57.007 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stdout.encoding=UTF-8
+21-Sep-2024 20:47:57.007 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stderr.encoding=UTF-8
+21-Sep-2024 20:47:57.009 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [2.0.8] using APR version [1.7.4].
+21-Sep-2024 20:47:57.014 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.0.14 4 Jun 2024]
+21-Sep-2024 20:47:57.268 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+21-Sep-2024 20:47:57.285 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [435] milliseconds
+21-Sep-2024 20:47:57.333 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+21-Sep-2024 20:47:57.333 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.28]
+21-Sep-2024 20:47:57.342 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList\conf\Catalina\localhost\Chapter05_Murach_EmailList.xml]
+21-Sep-2024 20:47:57.614 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+21-Sep-2024 20:47:57.660 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList\conf\Catalina\localhost\Chapter05_Murach_EmailList.xml] has finished in [317] ms
+21-Sep-2024 20:47:57.660 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList\conf\Catalina\localhost\WebApplication1.xml]
+21-Sep-2024 20:47:57.661 WARNING [main] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/WebApplication1] in deployment descriptor [C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList\conf\Catalina\localhost\WebApplication1.xml] has been ignored
+21-Sep-2024 20:47:57.714 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+21-Sep-2024 20:47:57.716 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Ghelix\Desktop\BAIPTAP\Chapter05_Murach_EmailList\conf\Catalina\localhost\WebApplication1.xml] has finished in [56] ms
+21-Sep-2024 20:47:57.719 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+21-Sep-2024 20:47:57.735 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [448] milliseconds
